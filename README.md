@@ -1,6 +1,4 @@
-Here’s a more aesthetic version of your README content, with formatting suggestions for clarity and engagement:
 
----
 
 # My First Attempt at Making a Neural Network
 
@@ -20,8 +18,8 @@ This project took approximately **50 hours** of coding in **C++**. The neural ne
 To get started with this project, clone the repository and build it using your preferred C++ compiler.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/dadirttheofficial/neuralnetwork.git
+cd neuralnetwork
 # Follow additional setup instructions here
 ```
 
@@ -30,10 +28,9 @@ cd your-repo
 Once set up, you can run the neural network by executing:
 
 ```bash
-./your_executable
+./neuralnetwork
 ```
 
-Feel free to explore the code and modify it to suit your needs!
 
 ## Contributions
 
