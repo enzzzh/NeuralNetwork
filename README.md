@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This project represents approximately **50 hours** of coding in **C++**. The neural network features a **self-training** mechanism, enabling it to refine its outputs automatically when errors are detected.
+This project was made in approximately **50 hours** of coding in **C++**. The neural network features a **self-training** mechanism, enabling it to refine its outputs automatically when errors are detected.
 
 ## ✨ Features
 
@@ -19,7 +19,6 @@ To begin, clone the repository and build it using your preferred C++ compiler:
 ```bash
 git clone https://github.com/dadirttheofficial/neuralnetwork.git
 cd neuralnetwork
-# Follow additional setup instructions here
 ```
 
 ## 💻 Usage
@@ -36,11 +35,5 @@ If you have questions or would like to contribute, feel free to reach out!
 
 - **Instagram**: [@enzzz.h](https://instagram.com/enzzz.h)
 - **Email**: [enzzzha@gmail.com](mailto:enzzzha@gmail.com)
-
----
-
-### ©️ Copyright
-
-© **ENZZZZ 2024**
 
 ---
